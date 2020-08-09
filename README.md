@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 ## Popular projects:
-[![Astro](https://github-readme-stats.vercel.app/api/pin/?username=lag01&repo=astro)](https://github.com/Lag01/Astro)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=lag01&show_icons=true&count_private=true)](https://github.com/lag01)
