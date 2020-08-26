@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lag01</h1>
+<h1 align="center">Hi 👋, I'm [Lag01](https://lag01.github.io)</h1>
 
 - 🔭 I’m currently working on **Astro**
 
